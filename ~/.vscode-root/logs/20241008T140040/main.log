@@ -1,0 +1,10 @@
+2024-10-08 14:00:40.490 [info] update#setState idle
+2024-10-08 14:00:52.801 [info] Extension host with pid 137234 exited with code: 0, signal: unknown.
+2024-10-08 14:00:52.824 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744071631018000, signal: unknown
+2024-10-08 14:01:10.522 [info] update#setState checking for updates
+2024-10-08 14:01:10.763 [info] update#setState idle
+2024-10-08 14:08:17.444 [info] Extension host with pid 141162 exited with code: 0, signal: unknown.
+2024-10-08 14:55:47.915 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-08 15:01:10.526 [info] update#setState checking for updates
+2024-10-08 15:01:11.491 [info] update#setState idle
+2024-10-08 15:48:59.409 [info] Extension host with pid 137437 exited with code: 0, signal: unknown.
